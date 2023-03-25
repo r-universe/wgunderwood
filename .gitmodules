@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "motifcluster"]
+	path = motifcluster
+	url = https://github.com/cran/motifcluster
+	shallow = true
+	registered = true
