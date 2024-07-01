@@ -4,4 +4,5 @@
 	branch = HEAD
 [submodule "motifcluster"]
 	path = motifcluster
-	url = https://github.com/cran/motifcluster
+	url = https://github.com/wgunderwood/motifcluster
+	subdir = R
